@@ -22,3 +22,4 @@ var minSubArrayLen = function (s, nums) {
     return ans === 999 ? 0 : ans
 }
 console.log(minSubArrayLen(999, [2,3,1,2,4,3]))
+console.log(333)
