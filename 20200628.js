@@ -24,3 +24,4 @@ var minSubArrayLen = function (s, nums) {
 console.log(minSubArrayLen(999, [2,3,1,2,4,3]))
 console.log(333)
 console.log('changshi')
+console.log(5)
