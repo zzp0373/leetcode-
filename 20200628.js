@@ -24,7 +24,5 @@ var minSubArrayLen = function (s, nums) {
 console.log(minSubArrayLen(999, [2,3,1,2,4,3]))
 console.log(333)
 console.log('changshi')
-<<<<<<< HEAD
 console.log(5)
-=======
->>>>>>> 2f3341c321d48fca3ec50960d149aaf0a4237f04
+console.log('git commit --amend')
