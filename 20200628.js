@@ -21,9 +21,4 @@ var minSubArrayLen = function (s, nums) {
     }
     return ans === 999 ? 0 : ans
 }
-console.log(1)
-<<<<<<< HEAD
-console.log(2)
-=======
-
->>>>>>> 63ca9cc17a325c5f0772675fa0c15c3c7703df07
+console.log(3)
