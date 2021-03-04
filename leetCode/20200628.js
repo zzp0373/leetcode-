@@ -3,6 +3,7 @@
 // 输入: s = 7, nums = [2,3,1,2,4,3]
 // 输出: 2
 // 解释: 子数组 [4,3] 是该条件下的长度最小的连续子数组
+
 var minSubArrayLen = function (s, nums) {
     let n = nums.length
     if (n === 0) {
@@ -21,7 +22,3 @@ var minSubArrayLen = function (s, nums) {
     }
     return ans === 999 ? 0 : ans
 }
-console.log(3)
-console.log(4)
-console.log(5)
-console.log(6)
